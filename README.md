@@ -22,9 +22,9 @@ I am the founder of **CEleri Consulting LLC**, a Tech firm specializing in busin
 ---
 ## **Portfolio, Projects, & Cases**
 
----
-*Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some of my work across **Finance, Consulting, Product Management, Engineering, and Data Analytics**. Each project demonstrates my ability to apply financial modeling, data analytics, automation, and cloud technologies to solve real-world problems.* 
----
+
+Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some of my work across **Finance, Consulting, Product Management, Engineering, and Data Analytics**. Each project demonstrates my ability to apply financial modeling, data analytics, automation, and cloud technologies to solve real-world problems.
+
 
 ### 📈 Finance & Investment Banking
 
