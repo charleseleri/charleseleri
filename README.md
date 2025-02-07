@@ -64,7 +64,5 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 - **LinkedIn**: [linkedin.com/in/charleseleri](https://linkedin.com/in/charleseleri)
 - **Website**: [celericonsulting.com](https://celericonsulting.com)
 
-*Always open to collaborations, opportunities, and innovative projects.* Let's build something amazing!
-
-Feel free to explore the projects, provide feedback, and collaborate!
+*Feel free to explore the projects and provide feedback. Always open to collaborations, opportunities, and innovative projects.* Let's build something amazing!
 -->
