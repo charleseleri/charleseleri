@@ -7,12 +7,12 @@ Turning numbers into insights | Transforming data into strategy | Building the f
 ---
 
 ## About Me
-I'm a **dynamic professional** with a passion for **finance, investment banking, consulting, product management, and engineering**. With expertise spanning **financial modeling, data analytics, and technology**, I bridge the gap between **business strategy and technical execution**.
+I'm a **dynamic professional** with a passion for **finance, consulting, strategy, product management, energy and engineering**. With expertise spanning financial modeling, data analytics, and technology, I bridge the gap between **business strategy and technical execution**.
 
 - **Investment Banking Enthusiast** – Mastering financial models (DCF, LBO, M&A)
 - **Consulting & Strategy** – Data-driven decision-making
 - **Tech & Engineering** – APIs, Cloud (AWS/GCP), Python, and automation
-- **Entrepreneur & Innovator** – Founder of **Beebeenow** (Ride-sharing & package delivery app)
+- **Entrepreneur & Innovator** – Founder of **Beebeenow** (Ride-sharing & package delivery app) thru CEleri Consulting LLC
 
 ---
 
