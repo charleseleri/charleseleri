@@ -20,9 +20,9 @@ I am the founder of **CEleri Consulting LLC**, a Tech firm specializing in busin
 - **Software Development & Data Analytics** – Proficient in Python, SQL, Tableau, R, AI, and cloud solutions for predictive modeling and automation.
 - **Entrepreneurial & Leadership Experience** – Founder of CEleri Consulting LLC to drive business strategy and technical solutions. Currently developing a Tech Startup, Project Hiker.
 ---
-## **Portfolio/Projects**
+## **Portfolio, Projects, & Cases**
 
-**Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some of my work across **Finance, Consulting, Product Management, Engineering, and Data Analytics**. Each project demonstrates my ability to apply financial modeling, data analytics, automation, and cloud technologies to solve real-world problems.**
+Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some of my work across **Finance, Consulting, Product Management, Engineering, and Data Analytics**. Each project demonstrates my ability to apply financial modeling, data analytics, automation, and cloud technologies to solve real-world problems.
 ---
 
 ### 📈 Finance & Investment Banking
@@ -62,5 +62,6 @@ I am the founder of **CEleri Consulting LLC**, a Tech firm specializing in busin
 - **Website**: [celericonsulting.com](https://celericonsulting.com)
 
 *Always open to collaborations, opportunities, and innovative projects.* Let's build something amazing!
+
 Feel free to explore the projects, provide feedback, and collaborate!
 -->
