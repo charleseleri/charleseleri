@@ -10,7 +10,7 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 
 - **[Stock Market Data Visualizer](https://github.com/charleseleri/stock-data-visualizer)** - Fetches real-time stock data via API and visualizes trends.
 - **[DCF Model & Valuation Analysis](https://github.com/charleseleri/Dcf-valuation)** - A Python-based Discounted Cash Flow (DCF) model for company valuation.
-- **LBO & M&A Analysis** - Financial deal modeling and analysis showcasing investment banking expertise.
+- **[LBO & M&A Analysis](https://github.com/charleseleri/LBO_M-A_Analysis)** - Financial deal modeling and analysis showcasing investment banking expertise.
 
 ### 📊 Consulting & Strategy
 
