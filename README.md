@@ -27,6 +27,7 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 - **[Hiker/BeeBeeNow(Ridesharing & Package Delivery App)](https://github.com/charleseleri/Hiker)** - My flagship personal project.
 
 ---
+---
 
 ## 🛠 Tech Stack & Tools
 
@@ -34,7 +35,7 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 - **Data Analytics & Visualization**: Tableau, Power BI, Excel, Pandas, NumPy, Scikit-learn, SPSS, Jupyter Notebooks
 - **Cloud & Software Development**: AWS, GCP, Azure, Git, Selenium, Visual Studio Code, PyCharm
 - **Reservoir Engineering Software**: Petrel, Eclipse, FracPro, CMG, MATLAB, AutoCAD
-- BootCamp:** Vijay Computer Academy
+- **BootCamp**: Vijay Computer Academy
 
 ---
 
