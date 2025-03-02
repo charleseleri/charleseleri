@@ -26,7 +26,7 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 - **[Cloud-based Infrastructure Deployment/Crude Oil Price Forecasting](https://github.com/charleseleri/Crude_Oil_Price_Forecasting)** - Deploying scalable applications using AWS/GCP.
 - **[Hiker/BeeBeeNow(Ridesharing & Package Delivery App)](https://github.com/charleseleri/Hiker)** - My flagship personal project.
 ---
-##  Tech Stack & Tools
+##  Tech Stack & Tools  🛠 
 - **BootCamp**: Vijay Computer Academy
 - **Programming & Scripting**: Python, R, SQL, Node.js, HTML, Java
 - **Data Analytics & Visualization**: Tableau, Power BI, Excel, Pandas, NumPy, Scikit-learn, SPSS, Jupyter Notebooks
