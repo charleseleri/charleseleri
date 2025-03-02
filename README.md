@@ -1,9 +1,7 @@
 # Charles Eleri - Portfolio / Projects      **[BIO](https://github.com/charleseleri/charleseleri/blob/main/BIO.md)**
 
 Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some of my work across **Finance, Consulting, Product Management, Engineering, and Data Analytics**. Each project demonstrates my ability to apply financial modeling, data analytics, automation, and cloud technologies to solve real-world problems.
-
-----
-
+---------
 ## **Featured Projects**
 
 ### 📈 Finance & Investment Banking
@@ -27,7 +25,6 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 - **[Hiker/BeeBeeNow(Ridesharing & Package Delivery App)](https://github.com/charleseleri/Hiker)** - My flagship personal project.
 ---
 ## 🛠 Tech Stack & Tools
-
 - **Programming & Scripting**: Python, R, SQL, Node.js, HTML, Java
 - **Data Analytics & Visualization**: Tableau, Power BI, Excel, Pandas, NumPy, Scikit-learn, SPSS, Jupyter Notebooks
 - **Cloud & Software Development**: AWS, GCP, Azure, Git, Selenium, Visual Studio Code, PyCharm
