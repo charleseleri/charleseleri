@@ -7,7 +7,7 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 ## **Featured Projects**
 
 ### 📈 Finance & Investment Banking
-
+- **[Predict Bitcoin Price](https://github.com/charleseleri/predict-bitcoin-price)** - Predict bitcoin price (Ticker: BTC) in the short-term. Class FINC-646
 - **[Stock Market Data Visualizer](https://github.com/charleseleri/stock-data-visualizer)** - Fetches real-time stock data via API and visualizes trends.
 - **[DCF Model & Valuation Analysis](https://github.com/charleseleri/Dcf-valuation)** - A Python-based Discounted Cash Flow (DCF) model for company valuation.
 - **[LBO & M&A Analysis](https://github.com/charleseleri/LBO_M-A_Analysis)** - Financial deal modeling and analysis showcasing investment banking expertise.
