@@ -2,7 +2,7 @@
 
 Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some of my work across **Finance, Consulting, Product Management, Engineering, and Data Analytics**. Each project demonstrates my ability to apply financial modeling, data analytics, automation, and cloud technologies to solve real-world problems.
 
----
+----
 
 ## **Featured Projects**
 
@@ -25,10 +25,7 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 - **[Oil_Field_Investment_Analysis](https://github.com/charleseleri/Oil_Field_Investment_Analysis)** - Oil Field Investment Analysis.
 - **[Cloud-based Infrastructure Deployment/Crude Oil Price Forecasting](https://github.com/charleseleri/Crude_Oil_Price_Forecasting)** - Deploying scalable applications using AWS/GCP.
 - **[Hiker/BeeBeeNow(Ridesharing & Package Delivery App)](https://github.com/charleseleri/Hiker)** - My flagship personal project.
-
 ---
----
-
 ## 🛠 Tech Stack & Tools
 
 - **Programming & Scripting**: Python, R, SQL, Node.js, HTML, Java
@@ -36,9 +33,7 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 - **Cloud & Software Development**: AWS, GCP, Azure, Git, Selenium, Visual Studio Code, PyCharm
 - **Reservoir Engineering Software**: Petrel, Eclipse, FracPro, CMG, MATLAB, AutoCAD
 - **BootCamp**: Vijay Computer Academy
-
 ---
-
 ## 📬 Contact & Collaboration
 
 - **GitHub**: [github.com/charleseleri](https://github.com/charleseleri)
@@ -46,3 +41,5 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 - **Website**: [celericonsulting.com](https://celericonsulting.com)
 
 Feel free to explore the projects, provide feedback, and collaborate!
+---
+---
