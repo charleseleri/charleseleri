@@ -5,7 +5,7 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 ---
 ## **Featured Projects**
 
-### 📈 Finance & Investment Banking
+###  Finance & Investment Banking
 - **[Predict Bitcoin Price](https://github.com/charleseleri/predict-bitcoin-price)** - Predict bitcoin price (Ticker: BTC) in the short-term. Class FINC-646
 - **[Stock Market Data Visualizer](https://github.com/charleseleri/stock-data-visualizer)** - Fetches real-time stock data via API and visualizes trends.
 - **[DCF Model & Valuation Analysis](https://github.com/charleseleri/Dcf-valuation)** - A Python-based Discounted Cash Flow (DCF) model for company valuation.
@@ -15,8 +15,9 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 
 - **[Market Expansion Strategy](https://github.com/charleseleri/Market_Expansion_Strategy)** - Data-driven consulting analysis for business growth.
 - **[Competitive Landscape Analysis](https://github.com/charleseleri/Competitive_Landscape_Analysis)** - Identifying industry trends and opportunities using analytics.
+- **[Stock Economic Forecasting](https://github.com/charleseleri/stock_economic_forecasting)** - Stock Economic Forecasting.
 
-### 🛠 Product Management & Engineering
+###  Product Management & Engineering
 
 - **[API-Based Interactive Dashboard](https://github.com/charleseleri/API_Data_Visualization_App)** - Consumes live data from APIs and visualizes insights.
 - **[Predictive Maintenance (Oil & Gas)](https://github.com/charleseleri/Predictive_Maintenance_OilGas)** - Machine learning model for industrial equipment failure prediction.
@@ -25,7 +26,7 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 - **[Cloud-based Infrastructure Deployment/Crude Oil Price Forecasting](https://github.com/charleseleri/Crude_Oil_Price_Forecasting)** - Deploying scalable applications using AWS/GCP.
 - **[Hiker/BeeBeeNow(Ridesharing & Package Delivery App)](https://github.com/charleseleri/Hiker)** - My flagship personal project.
 ---
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 - **Programming & Scripting**: Python, R, SQL, Node.js, HTML, Java
 - **Data Analytics & Visualization**: Tableau, Power BI, Excel, Pandas, NumPy, Scikit-learn, SPSS, Jupyter Notebooks
 - **Cloud & Software Development**: AWS, GCP, Azure, Git, Selenium, Visual Studio Code, PyCharm
