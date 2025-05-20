@@ -11,7 +11,7 @@ Welcome to my **Portfolio, Projects, & Cases**! This repository showcases some o
 - **[DCF Model & Valuation Analysis](https://github.com/charleseleri/Dcf-valuation)** - A Python-based Discounted Cash Flow (DCF) model for company valuation.
 - **[LBO model / M&A Analysis](https://github.com/charleseleri/LBO_M-A_Analysis)** - Financial deal modeling and analysis showcasing investment banking expertise. Leveraged Buy Out / Mergers & Acquisitions.
 
-###  Consulting & Strategy  📊
+###  Consulting & Strategy  
 
 - **[Market Expansion Strategy](https://github.com/charleseleri/Market_Expansion_Strategy)** - Data-driven consulting analysis for business growth.
 - **[Competitive Landscape Analysis](https://github.com/charleseleri/Competitive_Landscape_Analysis)** - Identifying industry trends and opportunities using analytics.
